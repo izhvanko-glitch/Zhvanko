@@ -1,9 +1,28 @@
 <!DOCTYPE html>
 <html lang="uk">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Пригода — Русанівський ліцей</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Пригода — Русанівський ліцей</title>
+
+    <style>
+body {
+            max-width: 650px;
+            margin: 0 auto;
+            padding: 20px;
+            font-family: sans-serif;
+            line-height: 1.5;
+        }
+
+        img {
+            width: 100%;
+            border-radius: 8px;
+        }
+
+        p {
+            margin-bottom: 30px;
+        }
+    </style>
 </head>
 <body>
 
